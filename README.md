@@ -1,3 +1,2 @@
 # ejemplo
 
-author :  Beatriz Bermejo
